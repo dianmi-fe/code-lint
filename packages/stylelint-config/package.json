@@ -1,6 +1,6 @@
 {
     "name": "@dianmi-fe/stylelint-config",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "a stylelint config for dianmi-fe",
     "main": "index.js",
     "author": "young <young961203@gmail.com>",
