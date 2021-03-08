@@ -1,0 +1,22 @@
+{
+    "name": "@dianmi-fe/scripts",
+    "description": "a scripts for dianmi-fe",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "author": "young <young961203@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "chalk": "^4.1.0",
+        "conventional-changelog-cli": "^2.1.1",
+        "enquirer": "^2.3.6",
+        "execa": "^5.0.0",
+        "minimist": "^1.2.5",
+        "semver": "^7.3.4",
+        "yorkie": "^2.0.0"
+    },
+    "gitHooks": {
+        "commit-msg": "node scripts/verifyCommit.js"
+    }
+}
