@@ -1,0 +1,48 @@
+{
+    "name": "@dianmi-fe/eslint-config-vue",
+    "version": "0.0.0",
+    "description": "a eslint config vue for dianmi-fe",
+    "main": "index.js",
+    "author": "young <young961203@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s --commit-path . --lerna-package eslint-config-vue",
+        "release": "node ../../scripts/release.js"
+    },
+    "dependencies": {
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-config-prettier": "^8.1.0",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-prettier": "^3.3.1",
+        "eslint-plugin-vue": "^7.7.0",
+        "vue-eslint-parser": "^7.6.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.21.0"
+    },
+    "peerDependencies": {
+        "eslint": "^7.0.0"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "config",
+        "javascript",
+        "vue",
+        "dm",
+        "dianmi",
+        "dianmi-fe"
+    ],
+    "files": [
+        "index.js",
+        "rules"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dianmi-fe/scripts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dianmi-fe/scripts/issues"
+    },
+    "homepage": "https://github.com/dianmi-fe/scripts/tree/main/packages/eslint-config-vue#readme"
+}
