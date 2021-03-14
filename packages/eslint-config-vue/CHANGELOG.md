@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.0...eslint-config-vue@1.0.1) (2021-03-14)
+
+
+### Features
+
+* 调整部分 eslint 规则, 以符合 dianmi-fe 规范 ([7c7aa00](https://github.com/dianmi-fe/scripts/commit/7c7aa00bec1cc46b24120fc4539d27554b599d83))
+
+
+
 # 1.0.0 (2021-03-08)
 
 
