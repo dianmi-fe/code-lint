@@ -4,5 +4,8 @@ module.exports = {
         'plugin:vue/strongly-recommended',
         'plugin:vue/essential'
     ],
-    parser: 'vue-eslint-parser'
+    parser: 'vue-eslint-parser',
+    rules: {
+        'vue/no-reserved-keys': 'warn'
+    }
 }
