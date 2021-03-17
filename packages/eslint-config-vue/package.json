@@ -1,6 +1,6 @@
 {
     "name": "@dianmi-fe/eslint-config-vue",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "a eslint config vue for dianmi-fe",
     "main": "index.js",
     "author": "young <young961203@gmail.com>",

@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.1...eslint-config-vue@1.0.2) (2021-03-17)
+
+
+### Features
+
+* **eslint-config-vue:** 引入 @dianmi-fe/eslint-config 包, 并删除相关重复规则 ([860588a](https://github.com/dianmi-fe/scripts/commit/860588a46b8e4edf23e2aa31d34f49fc40ec0500))
+
+
+
 ## [1.0.1](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.0...eslint-config-vue@1.0.1) (2021-03-14)
 
 
