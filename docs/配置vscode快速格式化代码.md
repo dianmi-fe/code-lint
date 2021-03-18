@@ -1,5 +1,9 @@
 ## 配置 vscode 快速格式化代码
 
+> 编写本文档时, vscode 版本为 1.54.X
+
+本指南可以让前端开发者使用 vscode 时, 高效的格式化代码, 摆脱被 eslint 支配的恐惧
+
 ### 必不可少的 vscode 插件
 
 > 点击图标进入插件详情页
@@ -31,10 +35,13 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
         // "source.fixAll": true
-        // or(或者)
+        // or
         // "source.fixAll.eslint": true,
         // "source.fixAll.stylelint": true
-    }
+    },
+
+    // https://vuejs.github.io/vetur/guide/linting-error.html#linting
+    "vetur.validation.template": false
 }
 ```
 
