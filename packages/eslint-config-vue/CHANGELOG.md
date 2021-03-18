@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.2...eslint-config-vue@1.1.0) (2021-03-18)
+
+
+### Features
+
+* **eslint-config-vue:** 添加 Vue.js 3.x 的 eslint 规则 ([2fcb26a](https://github.com/dianmi-fe/scripts/commit/2fcb26afc4ed2b5ccbc88034397b94b2f0da9ba7))
+
+
+
 ## [1.0.2](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.1...eslint-config-vue@1.0.2) (2021-03-17)
 
 
