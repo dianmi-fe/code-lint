@@ -1,3 +1,3 @@
 module.exports = {
-    extends: ['./base', './prettier'].map(require.resolve)
+    extends: require.resolve('./v2')
 }

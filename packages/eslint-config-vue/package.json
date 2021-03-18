@@ -26,6 +26,7 @@
         "config",
         "javascript",
         "vue",
+        "vue3",
         "dm",
         "dianmi",
         "dianmi-fe"
@@ -33,7 +34,9 @@
     "files": [
         "index.js",
         "base.js",
-        "prettier.js"
+        "prettier.js",
+        "v2",
+        "v3"
     ],
     "repository": {
         "type": "git",
