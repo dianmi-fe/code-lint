@@ -1,0 +1,4 @@
+/* ✗ BAD */
+Vue.config.keyCodes = {
+    // ...
+}
