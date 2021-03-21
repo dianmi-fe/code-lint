@@ -42,7 +42,10 @@ module.exports = {
                 enforceForJSX: true
             }
         ],
+        'prefer-destructuring': ['error', { object: true, array: false }],
 
+        'import/no-extraneous-dependencies': 'off',
+        'import/no-unresolved': 'off',
         'import/prefer-default-export': 'off'
     }
 }
