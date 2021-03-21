@@ -10,7 +10,7 @@
         "release": "node ../../scripts/release.js"
     },
     "dependencies": {
-        "@dianmi-fe/eslint-config": "^1.0.0",
+        "@dianmi-fe/eslint-config": "^1.0.1",
         "eslint-plugin-vue": "^7.7.0",
         "vue-eslint-parser": "^7.6.0"
     },
