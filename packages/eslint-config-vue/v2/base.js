@@ -5,9 +5,10 @@ module.exports = {
         'plugin:vue/strongly-recommended',
         'plugin:vue/essential'
     ],
+    plugins: ['vue'],
     parser: 'vue-eslint-parser',
     parserOptions: {
-        parser: '@babel/eslint-parser',
+        parser: 'babel-eslint',
         // https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser#additional-parser-configuration
         ecmaVersion: 2020,
         sourceType: 'module',
@@ -20,6 +21,7 @@ module.exports = {
         allowImportExportEverywhere: false
     },
     rules: {
+        'vue/no-mutating-props': 'warn',
         'vue/no-reserved-keys': 'warn',
         'vue/html-self-closing': [
             'error',
