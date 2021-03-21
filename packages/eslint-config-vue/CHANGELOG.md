@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.1.0...eslint-config-vue@1.1.1) (2021-03-21)
+
+
+### Bug Fixes
+
+* **eslint-config-vue:** 更新 eslint-config 依赖版本, 调整 base.js 配置 ([55407fd](https://github.com/dianmi-fe/scripts/commit/55407fd96aa24939a488abbfeed8ff7546724fb5))
+
+
+
 # [1.1.0](https://github.com/dianmi-fe/scripts/compare/eslint-config-vue@1.0.2...eslint-config-vue@1.1.0) (2021-03-18)
 
 
