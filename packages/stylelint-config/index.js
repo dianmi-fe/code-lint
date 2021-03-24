@@ -7,6 +7,10 @@ module.exports = {
     plugins: ['stylelint-prettier', 'stylelint-order', 'stylelint-scss'],
     rules: {
         'prettier/prettier': true,
+
+        'at-rule-no-unknown': null,
+        'no-descending-specificity': null,
+
         'order/order': [
             'custom-properties',
             'dollar-variables',
@@ -14,7 +18,7 @@ module.exports = {
             'rules',
             'at-rules'
         ],
-        'at-rule-no-unknown': null,
+
         'scss/at-rule-no-unknown': true
     }
 }
