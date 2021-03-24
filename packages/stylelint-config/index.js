@@ -11,6 +11,13 @@ module.exports = {
         'at-rule-no-unknown': null,
         'no-descending-specificity': null,
 
+        'selector-pseudo-class-no-unknown': [
+            true,
+            {
+                ignorePseudoClasses: ['global', 'local']
+            }
+        ],
+
         'order/order': [
             'custom-properties',
             'dollar-variables',
