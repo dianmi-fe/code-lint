@@ -28,6 +28,10 @@ module.exports = {
         'guard-for-in': 'off', // 与 no-restricted-syntax 重复
         'no-console': 'off',
         'no-plusplus': 'off',
+        /**
+         * 禁止变量名与上层作用域内的已定义的变量名重复
+         */
+        'no-shadow': 'off',
 
         'no-continue': 'warn',
         'no-param-reassign': 'warn',
