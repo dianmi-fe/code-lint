@@ -30,8 +30,8 @@ module.exports = {
     requirePragma: false,
     // 不需要自动在文件开头插入 @prettier
     insertPragma: false,
-    // 尽可能的不要折行
-    proseWrap: 'never',
+    // 使用默认的折行标准
+    proseWrap: 'preserve',
     // 空格是不敏感的
     htmlWhitespaceSensitivity: 'ignore',
     // 不需要缩进 vue 文件中 script 和 style 标签里的代码
