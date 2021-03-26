@@ -32,8 +32,8 @@ module.exports = {
     insertPragma: false,
     // 尽可能的不要折行
     proseWrap: 'never',
-    // 根据显示样式决定 html 要不要折行
-    htmlWhitespaceSensitivity: 'css',
+    // 空格是不敏感的
+    htmlWhitespaceSensitivity: 'ignore',
     // 不需要缩进 vue 文件中 script 和 style 标签里的代码
     vueIndentScriptAndStyle: false,
     // 换行符使用 lf
