@@ -1,7 +1,8 @@
 // https://prettier.io/docs/en/options.html
 
 module.exports = {
-    printWidth: 80,
+    // 一行最多 120 字符
+    printWidth: 120,
     tabWidth: 4,
     useTabs: false,
     semi: false,
