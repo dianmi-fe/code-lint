@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/dianmi-fe/code-lint/compare/eslint-config-vue@1.1.1...eslint-config-vue@1.1.2) (2021-03-27)
+
+
+### Features
+
+* **eslint-config-vue:** 升级 @dianmi-fe/eslint-config 版本 ([67feb6f](https://github.com/dianmi-fe/code-lint/commit/67feb6f47b5e543983b6f58fc049228fde60cab6))
+
+
+
 ## [1.1.1](https://github.com/dianmi-fe/code-lint/compare/eslint-config-vue@1.1.0...eslint-config-vue@1.1.1) (2021-03-21)
 
 
