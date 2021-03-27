@@ -1,4 +1,4 @@
-# @dianmi-fe/eslint-config-vue &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/eslint-config-vue)](https://github.com/dianmi-fe/scripts/tree/main/packages/eslint-config-vue/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/eslint-config-vue)](https://www.npmjs.com/package/@dianmi-fe/eslint-config-vue)
+# @dianmi-fe/eslint-config-vue &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/eslint-config-vue)](https://github.com/dianmi-fe/code-lint/tree/main/packages/eslint-config-vue/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/eslint-config-vue)](https://www.npmjs.com/package/@dianmi-fe/eslint-config-vue)
 
 a eslint config vue for dianmi-fe
 
@@ -40,4 +40,4 @@ module.exports = {
 
 ## 其他
 
-[配置 vscode 快速格式化代码](https://github.com/dianmi-fe/scripts/blob/main/docs/%E9%85%8D%E7%BD%AEvscode%E5%BF%AB%E9%80%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81.md)
+[配置 vscode 快速格式化代码](https://github.com/dianmi-fe/code-lint/blob/main/docs/%E9%85%8D%E7%BD%AEvscode%E5%BF%AB%E9%80%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81.md)

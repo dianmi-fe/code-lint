@@ -28,10 +28,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dianmi-fe/scripts.git"
+        "url": "git+https://github.com/dianmi-fe/code-lint.git"
     },
     "bugs": {
-        "url": "https://github.com/dianmi-fe/scripts/issues"
+        "url": "https://github.com/dianmi-fe/code-lint/issues"
     },
-    "homepage": "https://github.com/dianmi-fe/scripts/tree/main/packages/prettier-config#readme"
+    "homepage": "https://github.com/dianmi-fe/code-lint/tree/main/packages/prettier-config#readme"
 }

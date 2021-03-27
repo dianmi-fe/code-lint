@@ -1,4 +1,4 @@
-# @dianmi-fe/stylelint-config &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/stylelint-config)](https://github.com/dianmi-fe/scripts/tree/main/packages/stylelint-config/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/stylelint-config)](https://www.npmjs.com/package/@dianmi-fe/stylelint-config)
+# @dianmi-fe/stylelint-config &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/stylelint-config)](https://github.com/dianmi-fe/code-lint/tree/main/packages/stylelint-config/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/stylelint-config)](https://www.npmjs.com/package/@dianmi-fe/stylelint-config)
 
 a stylelint config for dianmi-fe
 

@@ -1,6 +1,6 @@
 {
-    "name": "@dianmi-fe/scripts",
-    "description": "a scripts for dianmi-fe",
+    "name": "@dianmi-fe/code-lint",
+    "description": "a code lint for dianmi-fe",
     "private": true,
     "workspaces": [
         "packages/*"

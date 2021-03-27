@@ -1,4 +1,4 @@
-# @dianmi-fe/prettier-config &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/prettier-config)](https://github.com/dianmi-fe/scripts/tree/main/packages/prettier-config/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/prettier-config)](https://www.npmjs.com/package/@dianmi-fe/prettier-config)
+# @dianmi-fe/prettier-config &middot; [![GitHub license](https://img.shields.io/npm/l/@dianmi-fe/prettier-config)](https://github.com/dianmi-fe/code-lint/tree/main/packages/prettier-config/LICENSE) [![npm version](https://img.shields.io/npm/v/@dianmi-fe/prettier-config)](https://www.npmjs.com/package/@dianmi-fe/prettier-config)
 
 a prettier config for dianmi-fe
 

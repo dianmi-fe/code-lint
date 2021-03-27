@@ -1,6 +1,6 @@
-# @dainmi-fe/scripts
+# @dainmi-fe/code-lint
 
-a scripts for dianmi-fe
+a code lint for dianmi-fe
 
 ## Packages
 
