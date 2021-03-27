@@ -1,6 +1,6 @@
 {
     "name": "@dianmi-fe/prettier-config",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "a prettier config for dianmi-fe",
     "main": "index.js",
     "author": "young <young961203@gmail.com>",

@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/dianmi-fe/code-lint/compare/prettier-config@1.0.1...prettier-config@1.0.2) (2021-03-27)
+
+
+### Bug Fixes
+
+* **prettier-config:** 根据显示样式决定 html 要不要折行 (htmlWhitespaceSensitivity: css) ([88440b9](https://github.com/dianmi-fe/code-lint/commit/88440b9219a93deea69d96773b605028db34212b))
+
+
+
 ## [1.0.1](https://github.com/dianmi-fe/code-lint/compare/prettier-config@1.0.0...prettier-config@1.0.1) (2021-03-26)
 
 
