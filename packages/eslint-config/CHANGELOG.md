@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/dianmi-fe/code-lint/compare/eslint-config@1.0.1...eslint-config@1.0.2) (2021-03-27)
+
+
+### Bug Fixes
+
+* **eslint-config:** 关闭不合理的规则 no-shadow ([ad39097](https://github.com/dianmi-fe/code-lint/commit/ad390976cc72ecd67602998b930232892844281d))
+
+
+
 ## [1.0.1](https://github.com/dianmi-fe/code-lint/compare/eslint-config@1.0.0...eslint-config@1.0.1) (2021-03-21)
 
 
