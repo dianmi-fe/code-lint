@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/dianmi-fe/code-lint/compare/eslint-config@1.0.2...eslint-config@1.0.3) (2021-04-27)
+
+
+### Bug Fixes
+
+* **eslint-config:** 删除错误配置项 enforceForJSX ([2e617a6](https://github.com/dianmi-fe/code-lint/commit/2e617a6e296c2db59db1269bb9c67439bf8a8300))
+
+
+
 ## [1.0.2](https://github.com/dianmi-fe/code-lint/compare/eslint-config@1.0.1...eslint-config@1.0.2) (2021-03-27)
 
 
