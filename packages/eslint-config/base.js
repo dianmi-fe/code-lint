@@ -42,8 +42,7 @@ module.exports = {
             {
                 allowShortCircuit: true,
                 allowTernary: true,
-                allowTaggedTemplates: true,
-                enforceForJSX: true
+                allowTaggedTemplates: true
             }
         ],
         'prefer-destructuring': ['error', { object: true, array: false }],
